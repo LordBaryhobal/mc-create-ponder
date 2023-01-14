@@ -1,0 +1,123 @@
+{
+	"blocks": [
+		{
+			"x": 0,
+			"y": 1,
+			"z": 0,
+			"state": 0,
+			"index": 1
+		},
+		{
+			"x": 1,
+			"y": 0,
+			"z": 0,
+			"state": 0
+		},
+		{
+			"x": 2,
+			"y": 0,
+			"z": 0,
+			"state": 0
+		},
+		{
+			"x": 0,
+			"y": 1,
+			"z": 1,
+			"state": 0,
+			"index": 2
+		},
+		{
+			"x": 1,
+			"y": 0,
+			"z": 1,
+			"state": 0
+		},
+		{
+			"x": 2,
+			"y": 0,
+			"z": 1,
+			"state": 0
+		},
+		{
+			"x": 0,
+			"y": 4,
+			"z": 2,
+			"state": 1,
+			"frame": 1
+		},
+		{
+			"x": 1,
+			"y": 0,
+			"z": 2,
+			"state": 0
+		},
+		{
+			"x": 2,
+			"y": 0,
+			"z": 2,
+			"state": 0
+		},
+		{
+			"x": 3,
+			"y": 2,
+			"z": 3,
+			"state": 2,
+			"opacity": 0.5,
+			"frame": 2,
+			"index": 0
+		},
+		{
+			"x": 4,
+			"y": 0,
+			"z": 3,
+			"state": 3,
+			"frame": 2,
+			"index": 1
+		},
+		{
+			"x": 2,
+			"y": 0,
+			"z": 4,
+			"state": 4,
+			"opacity": 0.5,
+			"frame": 2,
+			"index": 2
+		}
+	],
+	"palette": [
+		{
+			"col": [153,116,53]
+		},
+		{
+			"col": [212,63,68],
+			"texture": "redstone_block"
+		},
+		{
+			"col": [73,203,93],
+			"model": "slab.obj",
+			"texture": "planks_oak"
+		},
+		{
+			"col": [200,200,200],
+			"model": "fence.obj"
+		},
+		{
+			"col": [73,169,203],
+			"model": "cauldron.obj"
+		}
+	],
+	"frames": [
+		{
+			"rot": 45
+		},
+		{
+			"rot": 90
+		},
+		{
+			"rot": 170
+		},
+		{
+			"rot": 570
+		}
+	]
+}
